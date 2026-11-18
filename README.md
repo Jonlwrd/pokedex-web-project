@@ -19,6 +19,7 @@ O objetivo do projeto foi praticar e aprimorar conhecimentos em desenvolvimento 
 - Manipulação do DOM com JavaScript.
 - Desenvolvimento de funcionalidades interativas.
 
-## Veja
+## Confira o projeto
 
+Acesse a Pokédex e confira o resultado:
 https://pokedex-web-project.netlify.app

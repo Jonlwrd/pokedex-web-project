@@ -21,5 +21,4 @@ O objetivo do projeto foi praticar e aprimorar conhecimentos em desenvolvimento 
 
 ## Confira o projeto
 
-Acesse a Pokédex e confira o resultado:
 https://pokedex-web-project.netlify.app

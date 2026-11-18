@@ -1,4 +1,4 @@
-# Pokédex 
+## Pokédex 
 
 Uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript. O projeto permite explorar informações dos Pokémon por meio de uma interface simples e intuitiva.
 
@@ -19,4 +19,6 @@ O objetivo do projeto foi praticar e aprimorar conhecimentos em desenvolvimento 
 - Manipulação do DOM com JavaScript.
 - Desenvolvimento de funcionalidades interativas.
 
-"GitHub" (https://github.com/Jonlwrd) · "LinkedIn" (COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
+## Veja como o projeto ficou 
+
+https://pokedex-web-project.netlify.app
